@@ -1,6 +1,12 @@
 body {
-    font-family: '微軟正黑體';
+    font-family: 'Noto Sans TC', sans-serif;
     width: 60%;
+
+}
+
+.section {
+    backgroung-color: gray;
+    border: solid 2px #AAAAAA;
 }
 
 .title {
@@ -74,6 +80,6 @@ body {
 .bottom {
     background-color: aquamarine;
     height: 38px;
-    width: 100%;
+
 
 }
